@@ -1,10 +1,12 @@
 # E-waste-managemant
 download and extract the file,
-Main file location e waste management\e waste management\iideainformatics.it\html\ecofix\index.html
+Main file (index) location  -  ``` e waste management\e waste management\iideainformatics.it\html\ecofix\index.html```
 
+assests location-  ```e waste management\iideainformatics.it\html\ecofix\assets\```
 
 
 for login  page -  install all required requisite files
+
 
 
 run command- ```set-location "e waste management\iideainformatics.it\html\ecofix\assets\login page"```
