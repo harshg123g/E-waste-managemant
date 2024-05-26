@@ -1,4 +1,5 @@
 # E-waste-managemant
+download and extract the file,
 Main file location e waste management\e waste management\iideainformatics.it\html\ecofix\index.html
 
 
